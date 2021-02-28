@@ -2,6 +2,9 @@
 
 ![gif](https://zylab.oss-cn-beijing.aliyuncs.com/fun-comment/Fun-Comment.gif)
 
+## Install
+**Search "fun-comment" in VSCode extension store.**
+
 ## Features
 
 You can add ascii image or ascii font in comments.
@@ -32,6 +35,9 @@ Initial version.
 **Enjoy!**
 
 -----------------------------------------------------------------------------------------------------------
+## 安装
+**在 VSCode 插件商店中搜索 "fun-comment" 安装体验。**
+
 ## 功能
 Fun-Comment 提供了在注释中插入 ascii 图片或文字的功能,让你的注释从此花里胡哨.
 
