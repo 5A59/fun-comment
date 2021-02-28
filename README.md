@@ -6,6 +6,10 @@
 
 You can add ascii image or ascii font in comments.
 
+Click right button you will see two choice: 
+"Fun-comment Add Image Comment"：when select this, a image picker will pop up, a ascii will insert to editor after choose a image.        
+"Fun-comment Add Text Comment"：when select this, a ascii text will insert to editor, replace the text that selected.     
+
 ## Extension Settings
 
 This extension contributes the following settings:
@@ -30,6 +34,10 @@ Initial version.
 -----------------------------------------------------------------------------------------------------------
 ## 功能
 Fun-Comment 提供了在注释中插入 ascii 图片或文字的功能,让你的注释从此花里胡哨.
+
+在编辑区点右键，有两个选项：
+"Fun-comment Add Image Comment"：选择这个，会弹出图片选择器，选择一个图片后会插入图片的 ascii 样式
+"Fun-comment Add Text Comment"：选择这个，会将已经选择的文字替换成 ascii 样式，前提需要先选中一段文字
 
 ## 设置
 
